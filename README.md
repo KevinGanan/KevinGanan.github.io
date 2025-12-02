@@ -13,7 +13,6 @@
 <p align="center">
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Ganán"/></a>
   <a href="mailto:kevinganan2901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Ganán" /></a>
-  <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@kevinganan" /></a>
 </p>
 
 <br>
