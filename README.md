@@ -14,9 +14,6 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Ganán"/></a>
   <a href="mailto:kevinganan2901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Ganán" /></a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KevinGanan&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="Contador de visitas" />
-</p>
 <br>
 
 
@@ -24,7 +21,7 @@
 
 <p align="left">
 🎓 <strong>ESTUDIANTE DE INGENIERÍA EN SOFTWARE</strong> en la Universidad Técnica de Ambato<br>
-📍 <strong>Ambato, Ecuador</strong> | <strong>20 años</strong><br>
+📍 <strong>Ambato, Ecuador</strong> | <strong>22 años</strong><br>
 💻 <strong>Apasionado</strong> por la tecnología y el desarrollo de software<br>
 🚀 <strong>Objetivo:</strong> Crear soluciones innovadoras que impacten positivamente<br>
 📫 <strong>Contacto:</strong> kevinganan2901@gmail.com
