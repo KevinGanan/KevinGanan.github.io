@@ -14,8 +14,11 @@
   <a href="#" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kevin Ganán"/></a>
   <a href="mailto:kevinganan2901@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Kevin Ganán" /></a>
 </p>
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KevinGanan&label=Visitas%20al%20perfil&color=blue&style=flat-square" alt="Contador de visitas" />
+</p>
 <br>
+
 
 <h2>🙋‍♂️ Sobre Mí</h2>
 
